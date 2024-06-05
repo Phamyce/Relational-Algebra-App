@@ -1,0 +1,56 @@
+[
+  {
+    "login": "student1",
+    "last_name": "Александров",
+    "first_name": "Эрнест",
+    "patronymic": "Эдуардович",
+    "answer_status": "Сдано",
+    "answer": "1) σ salary > 1000 (employee)\r\n2) π (provider.last_name,provider.city_of_provider)",
+    "mark": 5
+  },
+  {
+    "login": "student2",
+    "last_name": "Рубцов",
+    "first_name": "Максим",
+    "patronymic": "Николаевич",
+    "answer_status": "Сдано",
+    "answer": "projection and selection\r\n",
+    "mark": 4
+  },
+  {
+    "login": "student3",
+    "last_name": "Тарабукин",
+    "first_name": "Никита",
+    "patronymic": "Дмитриевич",
+    "answer_status": "Не сдано",
+    "answer": "",
+    "mark": 0
+  },
+  {
+    "login": "student4",
+    "last_name": "Соболев",
+    "first_name": "Денис",
+    "patronymic": "Алексеевич",
+    "answer_status": "Сдано",
+    "answer": "projection and selection\r\n",
+    "mark": 4
+  },
+  {
+    "login": "student5",
+    "last_name": "Углов",
+    "first_name": "Илья",
+    "patronymic": "Олегович",
+    "answer_status": "Сдано",
+    "answer": "projection and selection\r\n",
+    "mark": 4
+  },
+  {
+    "login": "student6",
+    "last_name": "Полетаев",
+    "first_name": "Егор",
+    "patronymic": "Романович",
+    "answer_status": "Сдано",
+    "answer": "projection and selection\r\n",
+    "mark": 0
+  }
+]

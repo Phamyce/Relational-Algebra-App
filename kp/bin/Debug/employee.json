@@ -1,0 +1,17 @@
+[
+  {
+    "tabel_number": 1,
+    "last_name": "Романов",
+    "salary": 1000
+  },
+  {
+    "tabel_number": 2,
+    "last_name": "Петров",
+    "salary": 2000
+  },
+  {
+    "tabel_number": 3,
+    "last_name": "Сидоров",
+    "salary": 3000
+  }
+]

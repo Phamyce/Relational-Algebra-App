@@ -1,0 +1,22 @@
+[
+    {
+        "provider_number": 1,
+        "last_name": "Иванов",
+        "city_of_provider": "Уфа"
+    },
+    {
+        "provider_number": 2,
+        "last_name": "Сидоров",
+        "city_of_provider": "Москва"
+    },
+    {
+        "provider_number": 3,
+        "last_name": "Петров",
+        "city_of_provider": "Москва"
+    },
+    {
+        "provider_number": 4,
+        "last_name": "Лебедев",
+        "city_of_provider": "Челябинск"
+    }
+]
